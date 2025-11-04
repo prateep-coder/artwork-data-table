@@ -4,7 +4,7 @@ A React application built with TypeScript and Vite that displays artwork data fr
 
 ## 🚀 Live Demo
 
-[Live Demo Link](https://your-app-name.netlify.app) <!-- Replace with your actual deployed URL -->
+https://artwork-data-table1.netlify.app/
 
 ## 📋 Assignment Requirements
 
